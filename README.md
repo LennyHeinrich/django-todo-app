@@ -6,11 +6,10 @@
 
 ## 🟢 Prerequisites
 
-You must have [Python3](https://www.python.org/downloads/) and [pip](https://pypi.org/project/pip/) installed on your machine. You also need to set up [PostgreSQL](https://www.postgresql.org/download/). This project was tested against the following versions:
+You must have [Python3](https://www.python.org/downloads/) and [pip](https://pypi.org/project/pip/) installed on your machine. This project was tested against the following versions:
 
 - Python 3.10.6
 - Pip 22.0.2
-- PostgreSQL 14.8
 
 ## 📦 Getting started
 
