@@ -14,7 +14,7 @@ You must have [Python3](https://www.python.org/downloads/) and [pip](https://pyp
 ## 📦 Getting started
 
 - Fork this repo to your GitHub account by clicking the **Fork** button.
-- Clone the repo to your machine.
+- Clone the repo to your machine.hh
 
 ```bash
 git clone https://github.com/<username>/django-todo-app
