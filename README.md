@@ -1,4 +1,4 @@
-# Django Todo App
+# Django Todo Appp
 
 **Tutorial**: [Deploying Django Apps with Docker: A Step-by-Step Guide](https://betterstack.com/community/guides/scaling-python/dockerize-django/)
 
